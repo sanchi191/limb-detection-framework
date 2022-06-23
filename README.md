@@ -1,6 +1,6 @@
 # limb-detection-framework
 The minor project "Limb Movement Detection Framework"  is a deep learning based project that works upon the idea of  monitoring system for human activity recognition in various domains like public places, automated teller machines or healthcare sector. At recent times, deep learning has arisen as a group of deep architecture based learning models that render high level abstraction data. In this project we develop a framework using a Convolution Neural Network for detection and recognition of human activity types inside the premises. Typically, we would develop a framework through a layered structure that would be able predict the above mentioned activities (human activities)
-My Work
+
 Project 1:
 First I experimented with th 5 activities dataset. I trained the upper layers of famous object detection models such as VGG-16, ResNet, GoogleNet, Densenet etc. trained on ImageNet dataset using transfer learning.
 
